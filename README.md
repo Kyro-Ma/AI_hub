@@ -4,7 +4,7 @@
 每日只需不到20 分钟的时间，帮你在最短时间里抓住关键信息、理解背后的逻辑与影响。  
 无论你是 AI 研究者、从业者、创业者，还是对未来科技充满好奇的普通听众，都能在这里获得清晰、及时、可消化的 AI 观察。
 
-<img src="ai_podcost_logo.jpg" alt="AI圈日报">
+<img src="ai_podcost_logo.jpg" alt="AI圈日报" width="600">
 
 
 
