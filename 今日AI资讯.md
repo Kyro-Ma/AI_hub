@@ -1,7 +1,7 @@
 # 早安！今天是2026年2月26日星期四
 AI圈日报|每日为您提供新鲜的人工智能领域资讯
 
-<img src="ai_podcost_logo.jpg" alt="AI圈日报" width="320">
+<img src="ai_podcast_logo.jpg" alt="AI圈日报" width="320">
 
 ## 今日AI资讯一览
 - 1. 消费级显卡可跑！刚刚，阿里Qwen3.5又开源3款新模型
